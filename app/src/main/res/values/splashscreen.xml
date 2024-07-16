@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="startscrceen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#ffffff</item>
+
+        <item name="android:statusBarColor">#ffffff</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@drawable/mysplash</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.PharmacyApp</item>
+
+    </style>
+
+
+
+</resources>
